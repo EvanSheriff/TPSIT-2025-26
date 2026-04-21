@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/build" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios/.symlinks/plugins/sqflite_darwin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios/.symlinks/plugins/sqflite_darwin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios/.symlinks/plugins/sqflite_darwin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios/.symlinks/plugins/sqflite_darwin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios/.symlinks/plugins/sqflite_darwin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios/.symlinks/plugins/sqflite_darwin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios_backup/.symlinks/plugins/sqflite_darwin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios_backup/.symlinks/plugins/sqflite_darwin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios_backup/.symlinks/plugins/sqflite_darwin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios_backup/.symlinks/plugins/sqflite_darwin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios_backup/.symlinks/plugins/sqflite_darwin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zkeep_evan_sheriff/ios_backup/.symlinks/plugins/sqflite_darwin/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
